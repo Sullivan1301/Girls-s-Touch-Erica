@@ -8,6 +8,9 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Girl's Touch Erica - Soins du visage naturels",
   description: "Des produits bio faits maison par les soins de Tatie Erica pour révéler votre beauté naturelle.",
+  icons: {
+    icon: "/icon.png",
+},
 }
 
 export default function RootLayout({
