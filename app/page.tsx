@@ -65,10 +65,10 @@ export default function Home() {
               </div>
               <Image
                 alt="Natural skincare products"
-                className="mx-auto aspect-video overflow-hidden rounded-xl object-cover object-center lg:aspect-square"
-                height="600"
-                src=""
-                width="600"
+                className="mx-auto aspect-video overflow-hidden rounded-xl object-cover object-center w-full"
+                height="500"
+                src={"/photo de couverture GTE.jpg"}
+                width="500"
               />
             </div>
           </div>
